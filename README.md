@@ -1,6 +1,5 @@
 # drum-kit-project
-JavaScript Drum Kit
-Introduction
+Drum Kit Introduction
 - This project is a simple yet interactive drum kit built using JavaScript, HTML, and CSS.
 - The drum kit allows users to play different drum sounds by either clicking on the drum pads or pressing corresponding keys on their keyboard.
 
